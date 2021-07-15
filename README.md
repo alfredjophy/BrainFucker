@@ -1,4 +1,4 @@
 # BrainFucker
  cause why not 
 
-interpreter for the BrainFucK "programming" language
+interpreter for the BrainFuck "programming" language
