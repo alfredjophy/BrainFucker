@@ -2,7 +2,6 @@
 
 void brainfucker(char *ptr, char *program)
 {
-    
     while (1)
 
     {
@@ -47,6 +46,7 @@ void brainfucker(char *ptr, char *program)
             break;
     }
 }
+
 int main(int argc, char *argv[])
 {
     if (!argc)
